@@ -1,0 +1,13 @@
+{
+  "name": "phroxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kinotto/node-babel-webpack-starter.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0",
+    "serialport": "^7.1.5"
+  }
+}
